@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Base Master</string>
+
+    <string-array name="options">
+        <item>Binary</item>
+        <item>Octal</item>
+        <item>Decimal</item>
+        <item>Hexadecimal</item>
+    </string-array>
+    
+    <string-array name="operation">
+        <item>BASE</item>
+        <item>AND</item>
+        <item>OR</item>
+        <item>NOT</item>
+        <item>XOR</item>
+    </string-array>
+</resources>
