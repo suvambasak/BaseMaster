@@ -3,7 +3,6 @@ package com.example.codebox.basemaster;
 /**
  * Created by codebox on 7/2/17.
  */
-
 public class Convert {
 
     //Decimal to all.
